@@ -1,0 +1,19 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Database file (this assumes SQLite, adjust for other databases)
+*.db
+
+# Logs (if you're storing logs)
+logs/
+
+# Data (if you're storing data)
+data/
+
+# Ignore your own project-specific files or directories as needed
